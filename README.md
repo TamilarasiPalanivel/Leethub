@@ -88,6 +88,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0338-counting-bits) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [2586-longest-square-streak-in-an-array](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2586-longest-square-streak-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -122,4 +123,16 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0937-online-stock-span) |
+## Tree
+|  |
+| ------- |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
