@@ -105,6 +105,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0013-roman-to-integer) |
+| [0292-nim-game](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0292-nim-game) |
 ## Recursion
 |  |
 | ------- |
@@ -138,4 +139,12 @@
 |  |
 | ------- |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
