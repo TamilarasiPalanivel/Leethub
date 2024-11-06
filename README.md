@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0383-ransom-note) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -49,6 +51,7 @@
 | [0001-two-sum](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0073-set-matrix-zeroes) |
 | [0383-ransom-note](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0383-ransom-note) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -68,6 +71,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0088-merge-sorted-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
