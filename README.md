@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0073-set-matrix-zeroes) |
@@ -135,6 +136,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0004-median-of-two-sorted-arrays) |
 | [2586-longest-square-streak-in-an-array](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2586-longest-square-streak-in-an-array) |
 ## Design
 |  |
@@ -168,4 +170,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0014-longest-common-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
