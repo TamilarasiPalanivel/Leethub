@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0115-distinct-subsequences) |
+| [0126-word-ladder-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0126-word-ladder-ii) |
 | [0383-ransom-note](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0383-ransom-note) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -71,6 +72,7 @@
 | [0013-roman-to-integer](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0073-set-matrix-zeroes) |
+| [0126-word-ladder-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0126-word-ladder-ii) |
 | [0383-ransom-note](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -184,4 +186,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0004-median-of-two-sorted-arrays) |
+## Backtracking
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0126-word-ladder-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
