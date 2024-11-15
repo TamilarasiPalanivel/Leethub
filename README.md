@@ -44,6 +44,7 @@
 | [0085-maximal-rectangle](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0149-max-points-on-a-line](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0149-max-points-on-a-line) |
 | [0496-next-greater-element-i](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0503-next-greater-element-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -73,6 +74,7 @@
 | [0049-group-anagrams](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0126-word-ladder-ii) |
+| [0149-max-points-on-a-line](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0149-max-points-on-a-line) |
 | [0383-ransom-note](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -135,6 +137,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0013-roman-to-integer) |
+| [0149-max-points-on-a-line](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0149-max-points-on-a-line) |
 | [0292-nim-game](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0292-nim-game) |
 ## Recursion
 |  |
@@ -194,4 +197,8 @@
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0126-word-ladder-ii) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
