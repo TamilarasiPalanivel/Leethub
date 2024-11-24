@@ -172,14 +172,17 @@
 ## Tree
 |  |
 | ------- |
+| [0437-path-sum-iii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0437-path-sum-iii) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0437-path-sum-iii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0437-path-sum-iii) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0437-path-sum-iii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0437-path-sum-iii) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Brainteaser
 |  |
