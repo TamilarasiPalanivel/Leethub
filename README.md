@@ -51,6 +51,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0135-candy) |
 | [0149-max-points-on-a-line](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0149-max-points-on-a-line) |
+| [0219-contains-duplicate-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0503-next-greater-element-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -83,6 +84,7 @@
 | [0127-word-ladder](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0127-word-ladder) |
 | [0149-max-points-on-a-line](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0149-max-points-on-a-line) |
 | [0205-isomorphic-strings](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0383-ransom-note) |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0219-contains-duplicate-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Matrix
 |  |
