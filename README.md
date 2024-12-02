@@ -181,6 +181,7 @@
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0437-path-sum-iii) |
+| [0783-search-in-a-binary-search-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0783-search-in-a-binary-search-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -191,6 +192,7 @@
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0437-path-sum-iii) |
+| [0783-search-in-a-binary-search-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0783-search-in-a-binary-search-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Brainteaser
 |  |
@@ -221,4 +223,8 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0149-max-points-on-a-line) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
