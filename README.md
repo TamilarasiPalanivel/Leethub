@@ -85,6 +85,7 @@
 | [0126-word-ladder-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0127-word-ladder) |
 | [0149-max-points-on-a-line](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0149-max-points-on-a-line) |
+| [0202-happy-number](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0242-valid-anagram) |
@@ -106,6 +107,7 @@
 | [0027-remove-element](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0202-happy-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Sorting
 |  |
@@ -156,6 +158,7 @@
 | [0002-add-two-numbers](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0013-roman-to-integer) |
 | [0149-max-points-on-a-line](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0149-max-points-on-a-line) |
+| [0202-happy-number](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0292-nim-game) |
 ## Recursion
 |  |
