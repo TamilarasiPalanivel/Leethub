@@ -16,6 +16,7 @@
 | [0242-valid-anagram](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0383-ransom-note) |
+| [0399-evaluate-division](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0399-evaluate-division) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Stack
@@ -55,6 +56,7 @@
 | [0135-candy](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0135-candy) |
 | [0149-max-points-on-a-line](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0149-max-points-on-a-line) |
 | [0219-contains-duplicate-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0219-contains-duplicate-ii) |
+| [0399-evaluate-division](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0503-next-greater-element-ii) |
@@ -200,6 +202,7 @@
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0437-path-sum-iii) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
@@ -237,6 +240,7 @@
 | [0126-word-ladder-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0199-binary-tree-right-side-view) |
+| [0399-evaluate-division](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0399-evaluate-division) |
 ## Geometry
 |  |
 | ------- |
@@ -246,4 +250,16 @@
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0783-search-in-a-binary-search-tree) |
+## Union Find
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0399-evaluate-division) |
+## Graph
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
