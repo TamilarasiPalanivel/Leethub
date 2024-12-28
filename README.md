@@ -57,6 +57,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0135-candy) |
 | [0149-max-points-on-a-line](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0149-max-points-on-a-line) |
+| [0162-find-peak-element](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0238-product-of-array-except-self) |
 | [0399-evaluate-division](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0399-evaluate-division) |
@@ -184,6 +185,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0004-median-of-two-sorted-arrays) |
+| [0162-find-peak-element](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0162-find-peak-element) |
 | [2586-longest-square-streak-in-an-array](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2586-longest-square-streak-in-an-array) |
 ## Design
 |  |
