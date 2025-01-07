@@ -74,6 +74,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2586-longest-square-streak-in-an-array](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2586-longest-square-streak-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3104-happy-students](https://github.com/TamilarasiPalanivel/Leethub/tree/master/3104-happy-students) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2586-longest-square-streak-in-an-array](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2586-longest-square-streak-in-an-array) |
+| [3104-happy-students](https://github.com/TamilarasiPalanivel/Leethub/tree/master/3104-happy-students) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -275,4 +277,8 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0399-evaluate-division) |
+## Enumeration
+|  |
+| ------- |
+| [3104-happy-students](https://github.com/TamilarasiPalanivel/Leethub/tree/master/3104-happy-students) |
 <!---LeetCode Topics End-->
