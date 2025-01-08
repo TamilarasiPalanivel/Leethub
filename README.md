@@ -11,6 +11,7 @@
 | [0014-longest-common-prefix](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0126-word-ladder-ii) |
@@ -55,6 +56,7 @@
 | [0042-trapping-rain-water](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0088-merge-sorted-array) |
@@ -150,6 +152,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0085-maximal-rectangle) |
 ## Dynamic Programming
 |  |
@@ -215,6 +218,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0079-word-search) |
 | [0199-binary-tree-right-side-view](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0399-evaluate-division) |
@@ -249,6 +253,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0126-word-ladder-ii) |
 ## Breadth-First Search
