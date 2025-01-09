@@ -17,6 +17,7 @@
 | [0126-word-ladder-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0383-ransom-note) |
@@ -288,4 +289,16 @@
 |  |
 | ------- |
 | [3104-happy-students](https://github.com/TamilarasiPalanivel/Leethub/tree/master/3104-happy-students) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
