@@ -21,6 +21,7 @@
 | [0242-valid-anagram](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0399-evaluate-division) |
 | [0763-special-binary-string](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0763-special-binary-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -31,6 +32,7 @@
 | [0042-trapping-rain-water](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0085-maximal-rectangle) |
+| [0394-decode-string](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0739-daily-temperatures) |
@@ -189,6 +191,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0394-decode-string) |
 | [0763-special-binary-string](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0763-special-binary-string) |
 ## Counting
 |  |
