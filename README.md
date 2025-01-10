@@ -26,6 +26,7 @@
 | [0763-special-binary-string](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0763-special-binary-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2687-lexicographically-smallest-beautiful-string](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Stack
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2687-lexicographically-smallest-beautiful-string](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Array
 |  |
 | ------- |
