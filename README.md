@@ -26,6 +26,7 @@
 | [0763-special-binary-string](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0763-special-binary-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1321-get-equal-substrings-within-budget](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1321-get-equal-substrings-within-budget) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Stack
@@ -149,6 +150,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0238-product-of-array-except-self) |
+| [1321-get-equal-substrings-within-budget](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1321-get-equal-substrings-within-budget) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Sliding Window
 |  |
@@ -156,6 +158,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0219-contains-duplicate-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1321-get-equal-substrings-within-budget](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1321-get-equal-substrings-within-budget) |
 ## Matrix
 |  |
 | ------- |
@@ -207,6 +210,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0162-find-peak-element) |
+| [1321-get-equal-substrings-within-budget](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1321-get-equal-substrings-within-budget) |
 | [2586-longest-square-streak-in-an-array](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2586-longest-square-streak-in-an-array) |
 ## Design
 |  |
