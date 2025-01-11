@@ -25,6 +25,7 @@
 | [0399-evaluate-division](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0399-evaluate-division) |
 | [0763-special-binary-string](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0763-special-binary-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Stack
@@ -40,6 +41,7 @@
 | [0937-online-stock-span](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1002-maximum-width-ramp) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Greedy
 |  |
 | ------- |
