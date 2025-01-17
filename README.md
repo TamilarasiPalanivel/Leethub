@@ -26,6 +26,7 @@
 | [0394-decode-string](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0399-evaluate-division) |
 | [0763-special-binary-string](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0763-special-binary-string) |
+| [0886-score-of-parentheses](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1321-get-equal-substrings-within-budget) |
@@ -41,6 +42,7 @@
 | [0496-next-greater-element-i](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0739-daily-temperatures) |
+| [0886-score-of-parentheses](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0886-score-of-parentheses) |
 | [0937-online-stock-span](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1002-maximum-width-ramp) |
