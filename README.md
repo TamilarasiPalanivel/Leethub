@@ -9,6 +9,7 @@
 | [0012-integer-to-roman](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0076-minimum-window-substring) |
@@ -171,6 +172,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0085-maximal-rectangle) |
@@ -269,6 +271,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0093-restore-ip-addresses) |
