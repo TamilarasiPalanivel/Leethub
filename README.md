@@ -80,6 +80,7 @@
 | [0219-contains-duplicate-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0238-product-of-array-except-self) |
 | [0399-evaluate-division](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0399-evaluate-division) |
+| [0407-trapping-rain-water-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0407-trapping-rain-water-ii) |
 | [0435-non-overlapping-intervals](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0503-next-greater-element-ii) |
@@ -128,6 +129,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -171,6 +173,7 @@
 | [0073-set-matrix-zeroes](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0085-maximal-rectangle) |
+| [0407-trapping-rain-water-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0407-trapping-rain-water-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -285,6 +288,7 @@
 | [0127-word-ladder](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0199-binary-tree-right-side-view) |
 | [0399-evaluate-division](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0399-evaluate-division) |
+| [0407-trapping-rain-water-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0407-trapping-rain-water-ii) |
 ## Geometry
 |  |
 | ------- |
