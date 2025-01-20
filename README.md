@@ -28,6 +28,7 @@
 | [0763-special-binary-string](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0763-special-binary-string) |
 | [0886-score-of-parentheses](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1078-remove-outermost-parentheses](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1321-get-equal-substrings-within-budget) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -46,6 +47,7 @@
 | [0937-online-stock-span](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1002-maximum-width-ramp) |
+| [1078-remove-outermost-parentheses](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Greedy
 |  |
