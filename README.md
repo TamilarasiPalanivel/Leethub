@@ -9,6 +9,7 @@
 | [0012-integer-to-roman](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0072-edit-distance) |
@@ -36,6 +37,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0085-maximal-rectangle) |
