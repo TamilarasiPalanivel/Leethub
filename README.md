@@ -185,6 +185,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0115-distinct-subsequences) |
@@ -209,6 +210,7 @@
 | [0002-add-two-numbers](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0062-unique-paths) |
 | [0149-max-points-on-a-line](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0292-nim-game) |
@@ -339,4 +341,8 @@
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1236-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
