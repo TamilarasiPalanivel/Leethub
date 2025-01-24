@@ -33,6 +33,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1321-get-equal-substrings-within-budget) |
+| [1517-restore-the-array](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1517-restore-the-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2687-lexicographically-smallest-beautiful-string) |
@@ -199,6 +200,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0516-longest-palindromic-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1236-n-th-tribonacci-number) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1517-restore-the-array](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1517-restore-the-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2586-longest-square-streak-in-an-array](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2586-longest-square-streak-in-an-array) |
 ## Bit Manipulation
