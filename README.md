@@ -91,6 +91,7 @@
 | [0399-evaluate-division](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0407-trapping-rain-water-ii) |
 | [0435-non-overlapping-intervals](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0503-next-greater-element-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -198,6 +199,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0516-longest-palindromic-subsequence) |
 | [0639-decode-ways-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0639-decode-ways-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1236-n-th-tribonacci-number) |
@@ -223,12 +225,14 @@
 | [0149-max-points-on-a-line](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0486-predict-the-winner) |
 | [1236-n-th-tribonacci-number](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0002-add-two-numbers) |
 | [0394-decode-string](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0486-predict-the-winner) |
 | [0763-special-binary-string](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0763-special-binary-string) |
 ## Counting
 |  |
@@ -285,6 +289,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0486-predict-the-winner) |
 ## Trie
 |  |
 | ------- |
