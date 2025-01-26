@@ -75,6 +75,7 @@
 | [0027-remove-element](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0073-set-matrix-zeroes) |
@@ -303,6 +304,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0093-restore-ip-addresses) |
 | [0126-word-ladder-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0126-word-ladder-ii) |
