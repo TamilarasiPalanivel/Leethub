@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0435-non-overlapping-intervals) |
@@ -77,6 +78,7 @@
 | [0042-trapping-rain-water](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0079-word-search) |
@@ -192,6 +194,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0072-edit-distance) |
