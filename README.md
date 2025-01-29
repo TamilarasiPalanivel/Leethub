@@ -87,6 +87,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0135-candy) |
 | [0149-max-points-on-a-line](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0149-max-points-on-a-line) |
@@ -203,6 +204,7 @@
 | [0072-edit-distance](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0435-non-overlapping-intervals) |
