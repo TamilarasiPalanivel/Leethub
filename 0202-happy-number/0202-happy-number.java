@@ -1,25 +1,27 @@
+
 import java.util.HashSet;
-import java.util.Set;
-
-class Solution {
+import java.util.*;
+class Solution
+{
     public boolean isHappy(int n) {
-        Set<Integer> seen = new HashSet<>();
-        
-        while (n != 1 && !seen.contains(n)) {
-            seen.add(n);
-            n = getSumOfSquares(n);
-        }
-        
-        return n == 1;
-    }
+       
+       Set<Integer>used=new HashSet<>();
+       while(n!=1 && !used.contains(n)){
+        used.add(n);
 
-    private int getSumOfSquares(int num) {
-        int sum = 0;
-        while (num > 0) {
-            int digit = num % 10;
-            sum += digit * digit;
-            num /= 10;
-        }
-        return sum;
+       
+       int s=0;
+       while(n!=0)
+       {
+       int digit=n%10;
+        s+=digit*digit;
+        n=n/10;
+       
+       }
+        n=s;
+       }
+       return n==1;
+       }
+
+
     }
-}
