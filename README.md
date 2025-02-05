@@ -375,4 +375,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0062-unique-paths) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
