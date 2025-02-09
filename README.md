@@ -28,6 +28,7 @@
 | [0383-ransom-note](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0399-evaluate-division) |
+| [0415-add-strings](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0415-add-strings) |
 | [0516-longest-palindromic-subsequence](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0516-longest-palindromic-subsequence) |
 | [0639-decode-ways-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0639-decode-ways-ii) |
 | [0763-special-binary-string](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0763-special-binary-string) |
@@ -239,6 +240,7 @@
 | [0149-max-points-on-a-line](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0292-nim-game) |
+| [0415-add-strings](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0486-predict-the-winner) |
 | [1236-n-th-tribonacci-number](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
@@ -379,4 +381,8 @@
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1908-recyclable-and-low-fat-products) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
