@@ -380,6 +380,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0175-combine-two-tables) |
 | [1908-recyclable-and-low-fat-products](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1908-recyclable-and-low-fat-products) |
 ## Simulation
 |  |
