@@ -354,6 +354,7 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0399-evaluate-division) |
+| [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 ## Shortest Path
 |  |
 | ------- |
