@@ -79,6 +79,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0045-jump-game-ii) |
@@ -266,6 +267,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0162-find-peak-element) |
 | [1321-get-equal-substrings-within-budget](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1321-get-equal-substrings-within-budget) |
