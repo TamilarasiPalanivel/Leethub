@@ -102,6 +102,7 @@
 | [0219-contains-duplicate-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0274-h-index) |
 | [0399-evaluate-division](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0407-trapping-rain-water-ii) |
 | [0435-non-overlapping-intervals](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0435-non-overlapping-intervals) |
@@ -179,6 +180,7 @@
 | [0088-merge-sorted-array](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0435-non-overlapping-intervals) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -410,4 +412,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0225-implement-stack-using-queues) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
