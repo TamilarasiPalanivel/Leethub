@@ -30,6 +30,7 @@
 | [0399-evaluate-division](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0399-evaluate-division) |
 | [0415-add-strings](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0415-add-strings) |
 | [0516-longest-palindromic-subsequence](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0567-permutation-in-string) |
 | [0639-decode-ways-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0639-decode-ways-ii) |
 | [0763-special-binary-string](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0763-special-binary-string) |
 | [0886-score-of-parentheses](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0886-score-of-parentheses) |
@@ -152,6 +153,7 @@
 | [0290-word-pattern](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2586-longest-square-streak-in-an-array](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2586-longest-square-streak-in-an-array) |
@@ -172,6 +174,7 @@
 | [0125-valid-palindrome](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0202-happy-number) |
+| [0567-permutation-in-string](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0567-permutation-in-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Sorting
 |  |
@@ -198,6 +201,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1321-get-equal-substrings-within-budget](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1321-get-equal-substrings-within-budget) |
 ## Matrix
