@@ -235,6 +235,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0338-counting-bits) |
 | [0477-total-hamming-distance](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0477-total-hamming-distance) |
 ## Linked List
@@ -276,6 +277,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0222-count-complete-tree-nodes) |
 | [1321-get-equal-substrings-within-budget](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1321-get-equal-substrings-within-budget) |
 | [2586-longest-square-streak-in-an-array](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2586-longest-square-streak-in-an-array) |
 ## Design
@@ -292,6 +294,7 @@
 | ------- |
 | [0112-path-sum](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0450-delete-node-in-a-bst) |
@@ -312,6 +315,7 @@
 | ------- |
 | [0112-path-sum](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0450-delete-node-in-a-bst) |
