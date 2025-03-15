@@ -49,6 +49,7 @@
 | [0042-trapping-rain-water](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0496-next-greater-element-i) |
@@ -292,6 +293,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0225-implement-stack-using-queues) |
 | [0937-online-stock-span](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0937-online-stock-span) |
 ## Data Stream
