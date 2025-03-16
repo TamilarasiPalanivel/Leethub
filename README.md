@@ -117,6 +117,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0739-daily-temperatures](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1002-maximum-width-ramp) |
+| [1036-rotting-oranges](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1036-rotting-oranges) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -216,6 +217,7 @@
 | [0079-word-search](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0407-trapping-rain-water-ii) |
+| [1036-rotting-oranges](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1036-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -372,6 +374,7 @@
 | [0399-evaluate-division](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0407-trapping-rain-water-ii) |
 | [0871-keys-and-rooms](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0871-keys-and-rooms) |
+| [1036-rotting-oranges](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1036-rotting-oranges) |
 ## Geometry
 |  |
 | ------- |
