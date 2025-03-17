@@ -149,6 +149,7 @@
 | [0126-word-ladder-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0138-copy-list-with-random-pointer) |
 | [0149-max-points-on-a-line](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0205-isomorphic-strings) |
@@ -253,6 +254,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0138-copy-list-with-random-pointer) |
 ## Math
 |  |
 | ------- |
