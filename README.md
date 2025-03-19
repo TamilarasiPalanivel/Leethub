@@ -40,6 +40,7 @@
 | [1321-get-equal-substrings-within-budget](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1321-get-equal-substrings-within-budget) |
 | [1517-restore-the-array](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1517-restore-the-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2687-lexicographically-smallest-beautiful-string) |
 ## Stack
@@ -162,6 +163,7 @@
 | [0567-permutation-in-string](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2586-longest-square-streak-in-an-array](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2586-longest-square-streak-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -281,6 +283,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0383-ransom-note) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Binary Search
