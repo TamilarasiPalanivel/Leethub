@@ -248,6 +248,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0338-counting-bits) |
 | [0477-total-hamming-distance](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0477-total-hamming-distance) |
@@ -359,6 +360,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0190-reverse-bits) |
 ## Backtracking
 |  |
 | ------- |
