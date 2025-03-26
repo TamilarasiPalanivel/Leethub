@@ -126,6 +126,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3104-happy-students](https://github.com/TamilarasiPalanivel/Leethub/tree/master/3104-happy-students) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/TamilarasiPalanivel/Leethub/tree/master/3705-find-the-largest-almost-missing-integer) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -165,6 +166,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2586-longest-square-streak-in-an-array](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2586-longest-square-streak-in-an-array) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/TamilarasiPalanivel/Leethub/tree/master/3705-find-the-largest-almost-missing-integer) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
