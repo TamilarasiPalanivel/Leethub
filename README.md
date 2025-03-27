@@ -121,6 +121,7 @@
 | [1036-rotting-oranges](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1036-rotting-oranges) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2428-equal-row-and-column-pairs](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2428-equal-row-and-column-pairs) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2586-longest-square-streak-in-an-array](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -165,6 +166,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2428-equal-row-and-column-pairs](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2428-equal-row-and-column-pairs) |
 | [2586-longest-square-streak-in-an-array](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2586-longest-square-streak-in-an-array) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/TamilarasiPalanivel/Leethub/tree/master/3705-find-the-largest-almost-missing-integer) |
 ## Heap (Priority Queue)
@@ -223,6 +225,7 @@
 | [0085-maximal-rectangle](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0407-trapping-rain-water-ii) |
 | [1036-rotting-oranges](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1036-rotting-oranges) |
+| [2428-equal-row-and-column-pairs](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2428-equal-row-and-column-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -444,6 +447,7 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0415-add-strings) |
+| [2428-equal-row-and-column-pairs](https://github.com/TamilarasiPalanivel/Leethub/tree/master/2428-equal-row-and-column-pairs) |
 ## Queue
 |  |
 | ------- |
