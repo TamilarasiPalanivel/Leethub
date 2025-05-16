@@ -25,6 +25,7 @@
 | [0214-shortest-palindrome](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0399-evaluate-division) |
@@ -313,6 +314,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0225-implement-stack-using-queues) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0937-online-stock-span](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
@@ -327,6 +329,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0783-search-in-a-binary-search-tree) |
@@ -339,6 +342,7 @@
 | [0112-path-sum](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0399-evaluate-division](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0437-path-sum-iii) |
 | [0871-keys-and-rooms](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0871-keys-and-rooms) |
@@ -352,6 +356,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0783-search-in-a-binary-search-tree) |
@@ -391,6 +396,7 @@
 | [0126-word-ladder-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0399-evaluate-division](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0407-trapping-rain-water-ii) |
 | [0871-keys-and-rooms](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0871-keys-and-rooms) |
