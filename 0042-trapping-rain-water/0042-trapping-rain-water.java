@@ -1,31 +1,31 @@
-class Solution{
-    public int trap(int[] height)
-    {
-        int[] left=new int[height.length];
-        int[] right=new int[height.length];
-       int max=-1;
-        for(int i=0;i<height.length;i++)
+class Solution {
+    public int trap(int[] height) {
+        if(height.length<=2)
         {
-            if(height[i]>=max)
+            return 0;
+        }
+        int[] leftmx=new int [height.length];
+        int[] rightmx=new int [height.length];
+        int t=0,trapped;
+        leftmx[0]=height[0];int i;
+        for(i=1;i<height.length;i++)
+        {
+            leftmx[i]=Math.max(height[i],leftmx[i-1]);
+        }
+         rightmx[height.length-1]=height[height.length-1];
+        for(i=height.length-2;i>=0;i--)
+        {
+            rightmx[i]=Math.max(height[i],rightmx[i+1]);
+
+        }
+        for(i=0;i<height.length;i++)
+        {
+            trapped=Math.min(leftmx[i],rightmx[i])-height[i];
+            if(trapped>0)
             {
-                max=height[i];
+                t=t+trapped;
             }
-            left[i]=max;
         }
-         max=-1;
-        for(int i=height.length-1;i>=0;i--)
-        {
-            if(height[i]>=max)
-            {
-                max=height[i];
-            }
-            right[i]=max;
-        }
-        int total=0;
-        for(int i=0;i<height.length;i++)
-        {
-            total=total+Math.min(left[i],right[i])-height[i];
-        }
-return total;
+        return t;
     }
 }
