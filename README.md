@@ -95,6 +95,7 @@
 | [0055-jump-game](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0085-maximal-rectangle) |
@@ -228,6 +229,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0174-dungeon-game) |
@@ -309,6 +311,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0222-count-complete-tree-nodes) |
 | [1321-get-equal-substrings-within-budget](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1321-get-equal-substrings-within-budget) |
