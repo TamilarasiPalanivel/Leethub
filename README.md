@@ -98,6 +98,7 @@
 | [0074-search-a-2d-matrix](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0088-merge-sorted-array) |
@@ -314,6 +315,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0222-count-complete-tree-nodes) |
 | [1321-get-equal-substrings-within-budget](https://github.com/TamilarasiPalanivel/Leethub/tree/master/1321-get-equal-substrings-within-budget) |
