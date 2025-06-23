@@ -250,6 +250,7 @@
 | [0064-minimum-path-sum](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0118-pascals-triangle) |
@@ -289,6 +290,7 @@
 | [0013-roman-to-integer](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0292-nim-game) |
@@ -337,6 +339,7 @@
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0112-path-sum) |
@@ -364,6 +367,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0112-path-sum) |
@@ -423,6 +427,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0096-unique-binary-search-trees) |
 | [0450-delete-node-in-a-bst](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/TamilarasiPalanivel/Leethub/tree/master/0783-search-in-a-binary-search-tree) |
 ## Union Find
